@@ -1,7 +1,4 @@
-# Homework 3
 ## Compilers, Spring 2022
-### Theodora Troizi
-### sdi1800197
 
 ### Compilation:
 - Run `make` for compiling all files
